@@ -1,0 +1,8 @@
+{
+  "name": "IMBUHMAKER: Makmal Saintis Bahasa",
+  "description": "Aplikasi web pendidikan interaktif untuk pembelajaran pengimbuhan Bahasa Melayu sekolah rendah melalui kaedah eksperimen saintifik digital.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
